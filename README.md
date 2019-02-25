@@ -1,4 +1,4 @@
-# Sum-and-Squares
+# Sum Square Difference
 
 
 The sum of the squares of the first ten natural numbers is,
